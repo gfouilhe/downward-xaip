@@ -317,6 +317,7 @@ void MSGSCollection::print() const {
         mugs.print(soft_goal_fact_names);
     }
     cout << "*********************************"  << endl;
+    mugs.to_file(soft_goal_fact_names);
 }
 
 
