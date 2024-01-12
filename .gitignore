@@ -11,3 +11,4 @@ __pycache__/
 .vscode
 fdr.json
 out.log
+.DS_Store
